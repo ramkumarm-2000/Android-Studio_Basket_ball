@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basket Ball</string>
+    <string name="reset">Reset</string>
+    <string name="finish">Finish</string>
+    <string name="onepoint">+1 Point</string>
+    <string name="twopoint">+2 Point</string>
+    <string name="threepoint">+3 Point</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+    <string name="zero">0</string>
+</resources>
